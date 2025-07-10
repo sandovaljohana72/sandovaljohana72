@@ -2,6 +2,7 @@
 **Desarrolladora web Full-Stack | React · Django · Laravel**
 
 💻 Creo soluciones digitales accesibles y eficientes con código limpio.  
+
 🚀 Especializada en:  
 - Front: JavaScript, CSS3, accesibilidad web (WCAG)  
 - Back: Python, PHP, APIs REST

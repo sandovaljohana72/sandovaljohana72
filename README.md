@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Johana Sandoval  
+**Desarrolladora Full-Stack | JavaScript · React · Django**
 
-<!--
-**sandovaljohana72/sandovaljohana72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Creo soluciones digitales accesibles y eficientes con código limpio.  
+🚀 Especializada en:  
+- Front: React, JavaScript, CSS responsive  
+- Back: Django, APIs REST
+- Bases de datos: MySQL, SQLite3
+- Herramientas: Git, Docker, metodologías ágiles  
 
-Here are some ideas to get you started:
+🌟 Mi enfoque:  
+- UX/UI consciente y accesible  
+- Aprendizaje continuo (ahora profundizando en Python)  
+- Resolución estructurada de problemas  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Conectemos**:  
+[sandovaljohana@outlook.es](mailto:sandovaljohana@outlook.es) | 
+[LinkedIn](https://linkedin.com/in/sandovaljohana) | 
+[GitHub](https://github.com/sandovaljohana72)

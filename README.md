@@ -1,16 +1,16 @@
-# ¡Hola! ¡Soy Johana Sandoval!
-**Desarrolladora Full-Stack | React · Django · Laravel**
+# ¡Hola, soy Johana!
+**Desarrolladora web Full-Stack | React · Django · Laravel**
 
 💻 Creo soluciones digitales accesibles y eficientes con código limpio.  
 🚀 Especializada en:  
-- Front: JavaScript, CSS3, Responsive  
+- Front: JavaScript, CSS3, accesibilidad web (WCAG)  
 - Back: Python, PHP, APIs REST
 - Bases de datos: MySQL, SQLite3
 - Herramientas: Git, metodologías ágiles  
 
 🌟 Mi enfoque:  
 - UX/UI consciente y accesible  
-- Aprendizaje continuo (ahora profundizando en Python)  
+- Aprendizaje continuo
 - Resolución estructurada de problemas  
 
 📫 **Conectemos**:  

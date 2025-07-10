@@ -3,10 +3,10 @@
 
 💻 Creo soluciones digitales accesibles y eficientes con código limpio.  
 🚀 Especializada en:  
-- Front: React, JavaScript, CSS responsive  
-- Back: Django, APIs REST
+- Front: JavaScript, CSS3, Responsive  
+- Back: Python, PHP, APIs REST
 - Bases de datos: MySQL, SQLite3
-- Herramientas: Git, Docker, metodologías ágiles  
+- Herramientas: Git, metodologías ágiles  
 
 🌟 Mi enfoque:  
 - UX/UI consciente y accesible  

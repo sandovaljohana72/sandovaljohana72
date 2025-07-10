@@ -1,5 +1,5 @@
 # ¡Hola! ¡Soy Johana Sandoval!
-**Desarrolladora Full-Stack | JavaScript · React · Django**
+**Desarrolladora Full-Stack | React · Django · Laravel **
 
 💻 Creo soluciones digitales accesibles y eficientes con código limpio.  
 🚀 Especializada en:  
